@@ -16,7 +16,7 @@ adverts = soup.find_all('div', {'class': '_93444fe79c--card--_yguQ'})
 # Создаем новый файл Excel и добавляем в него заголовки столбцов
 workbook = openpyxl.Workbook()
 worksheet = workbook.active
-worksheet.append(['Адрес', 'Площадь', 'Цена'])
+worksheet.append(['Адрес', 'Площадь,м2', 'Цена'])
 
 # Добавляем информацию о каждой квартире в файл Excel
 for advert in adverts:
