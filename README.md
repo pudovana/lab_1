@@ -1,3 +1,4 @@
 # Получить список квартир с 1 страницы поиска на сайте cian.ru, результат записать в файл, записать в файл формата .xlsx
-![image](https://github.com/pudovana/lab_1/assets/124800948/d5193913-54fa-46b3-93a9-9e95fcd31ce3)
+![image](https://github.com/pudovana/lab_1/assets/124800948/0d657737-e5ca-4d12-a2ee-160fa1793bd0)
+
 
